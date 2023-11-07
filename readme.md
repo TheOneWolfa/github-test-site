@@ -4,3 +4,4 @@ why did i add this huge image
 This site is made for testing purposes.
 Feel free to copy any of the code by hitting F12 on your keyboard or hitting RMB and clicking inspect element or forking the repository.
 
+To get to the site: https://theonewolfa.github.io/github-test-site/
